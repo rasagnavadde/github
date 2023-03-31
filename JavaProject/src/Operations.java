@@ -7,7 +7,6 @@ public class Operations {
         System.out.println(divisionOf2Numbers(10,5));
         System.out.println(remainderofDiv(9,2));
     }
-
     public static int sumOf2Numbers(int a, int b) {
         return a + b;
     }
@@ -23,6 +22,4 @@ public class Operations {
     public static int remainderofDiv(int a,int b){
         return a%b;
     }
-
 }
-
