@@ -19,7 +19,7 @@ class Fish {
         makeSound();
     }
 
-   public void makeSound() {
+    public void makeSound() {
         System.out.println("Making Hiss Sound");
     }
 }
